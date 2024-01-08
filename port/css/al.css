@@ -1,0 +1,111 @@
+
+body{
+    background-color: rgb(226, 238, 248);
+    
+
+img{
+ max-width:  100%; 
+
+
+.container {
+    max-width: 70px; /* Indstil ønsket maksimal bredde for desktop */
+}
+
+/* style.css */
+.text-max-width {
+    max-width: 65ch;
+    margin: 0 auto; /* Dette centrerer elementet vandret */
+}
+}
+img{
+ max-width:  100%; 
+}
+
+}
+p {
+font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif;
+color: rgb(209, 135, 171);
+}
+
+h1{
+background-color: rgb(209, 135, 171);
+color: rgb(253, 253, 253);
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+}
+
+h2{
+font-family: 'Courier New', Courier, monospace;
+color:  rgb(209, 135, 171);
+}
+
+h3{
+font-family: 'Courier New', Courier, monospace;
+background-color: rgb(209, 135, 171);
+color: rgb(253, 253, 253);
+}
+
+
+li{
+    width: auto;
+    display: inline;
+    margin-right: 40px;
+    text-align: center; 
+}
+a:link {
+    color: rgb(209, 135, 171); /* Standardfarve for links */
+}
+
+ul{
+    text-align: center;
+}
+
+hr {
+    color: #e3a7e7;
+}
+
+.container {
+    max-width: 1000px; /* Indstil ønsket maksimal bredde for desktop */
+    margin: 0 auto; /
+}
+
+/* style.css */
+.text-max-width {
+    max-width: 65ch;
+    margin: 0 auto; /* Dette centrerer elementet vandret */
+}
+
+header{
+
+color: rgb(6, 6, 6);
+
+}
+
+
+header{
+        
+color: rgb(8, 8, 5);
+}   
+.navbar li a {
+display: inline-block;
+padding: 10px 20px; /* Tilpas polstring efter behov */
+text-decoration: none;
+background-color: rgb(209, 135, 171); /* Baggrundsfarve for knapper */
+color: #fff; /* Tekstfarve for knapper */
+border: none;
+border-radius: 20px; /* Runde hjørner af knapper */
+margin-right: 20px; /* Tilføj margen mellem knapperne */
+margin-top: 20px;
+font-family: 'Courier New', Courier, monospace;
+}
+        
+/* Hover-effekt for knapperne */
+.navbar li a:hover {
+background-color: #d857e1; /* Baggrundsfarve ved hover */
+font-family: 'Courier New', Courier, monospace;
+}        
+
+.burger-menu {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+  }
